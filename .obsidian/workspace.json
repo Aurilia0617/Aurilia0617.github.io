@@ -11,14 +11,12 @@
             "id": "15f52b58be403bf4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "index.html",
-                "bFile": "index.html",
-                "aRef": ""
+                "file": "img/head_hu_e620f40c7c4ab2b8.jpg"
               },
-              "icon": "diff",
-              "title": "Diff: index.html"
+              "icon": "lucide-image",
+              "title": "head_hu_e620f40c7c4ab2b8"
             }
           }
         ]
@@ -182,6 +180,8 @@
   },
   "active": "15f52b58be403bf4",
   "lastOpenFiles": [
+    "img/head_hu_e620f40c7c4ab2b8.jpg",
+    "img",
     "README.md",
     "favicon-32x32.png",
     "favicon-16x16.png",
