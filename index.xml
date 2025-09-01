@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AuriliaのBlog</title>
-    <link>https://c5add.cfd/</link>
-    <description>Recent content on AuriliaのBlog</description>
+    <title>厄瑞莉亚のBlog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 厄瑞莉亚のBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2024 - 2025 厄瑞莉亚 All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Aug 2025 13:29:51 +0800</lastBuildDate><atom:link href="https://c5add.cfd/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 - 2025 Aurilia All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 Sep 2025 11:05:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Second Post1</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Mon, 01 Sep 2025 11:05:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

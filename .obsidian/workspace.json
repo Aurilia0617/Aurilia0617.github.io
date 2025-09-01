@@ -11,12 +11,14 @@
             "id": "15f52b58be403bf4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/head_hu_e620f40c7c4ab2b8.jpg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "head_hu_e620f40c7c4ab2b8"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -178,15 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15f52b58be403bf4",
+  "active": "1f5d979cfe3d9c66",
   "lastOpenFiles": [
+    "img/head_hu_f329094e04636b2d.jpg",
+    "img/bg.jpg",
+    "android-chrome-512x512.png",
+    "apple-touch-icon.png",
+    "favicon-32x32.png",
+    "favicon-16x16.png",
     "img/head_hu_e620f40c7c4ab2b8.jpg",
     "img",
     "README.md",
-    "favicon-32x32.png",
-    "favicon-16x16.png",
-    "android-chrome-512x512.png",
-    "android-chrome-192x192.png",
-    "apple-touch-icon.png"
+    "android-chrome-192x192.png"
   ]
 }
